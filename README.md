@@ -1,4 +1,10 @@
-# ICJ Bootstrap Template
+# Madison's bootstrap practice
+
+By Madison, Intro Coding for Journalists class
+
+This repo is a class assignment to learn bootstrap. It was started on March 5, 2024.
+
+## ICJ Bootstrap Template
 
 This template goes along with the [Bootstrap lessons](https://utdata.github.io/icj-class/bs-00-intro.html) for Intro to Coding for Journalists.
 
